@@ -1,0 +1,15 @@
+D:\PatikaDev\Patika_Pratikler\hazir-metotlar-datetime-math\bin\Debug\net5.0\hazir-metotlar-datetime-math.exe
+D:\PatikaDev\Patika_Pratikler\hazir-metotlar-datetime-math\bin\Debug\net5.0\hazir-metotlar-datetime-math.deps.json
+D:\PatikaDev\Patika_Pratikler\hazir-metotlar-datetime-math\bin\Debug\net5.0\hazir-metotlar-datetime-math.runtimeconfig.json
+D:\PatikaDev\Patika_Pratikler\hazir-metotlar-datetime-math\bin\Debug\net5.0\hazir-metotlar-datetime-math.runtimeconfig.dev.json
+D:\PatikaDev\Patika_Pratikler\hazir-metotlar-datetime-math\bin\Debug\net5.0\hazir-metotlar-datetime-math.dll
+D:\PatikaDev\Patika_Pratikler\hazir-metotlar-datetime-math\bin\Debug\net5.0\hazir-metotlar-datetime-math.pdb
+D:\PatikaDev\Patika_Pratikler\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_Pratikler\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_Pratikler\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.AssemblyInfo.cs
+D:\PatikaDev\Patika_Pratikler\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_Pratikler\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.dll
+D:\PatikaDev\Patika_Pratikler\hazir-metotlar-datetime-math\obj\Debug\net5.0\refint\hazir-metotlar-datetime-math.dll
+D:\PatikaDev\Patika_Pratikler\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.pdb
+D:\PatikaDev\Patika_Pratikler\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.genruntimeconfig.cache
+D:\PatikaDev\Patika_Pratikler\hazir-metotlar-datetime-math\obj\Debug\net5.0\ref\hazir-metotlar-datetime-math.dll

@@ -1,0 +1,47 @@
+# Hazır Metotlar - Datetime ve Math
+
+### Datetime
+1. DateTime.Now
+2. DateTime.Now.Date
+1. DateTime.Now.Day
+1. DateTime.Now.Month
+1. DateTime.Now.Year
+1. DateTime.Now.Hour
+1. DateTime.Now.Minute
+1. DateTime.Now.Second
+1. DateTime.Now.DayOfWeek
+1. DateTime.Now.DayOfYear
+1. DateTime.Now.ToLongDateString()
+1. DateTime.Now.ToShortDateString()
+1. DateTime.Now.ToLongTimeString()
+1. DateTime.Now.ToShortTimeString()
+1. DateTime.Now.AddDays()
+1. DateTime.Now.AddHours()
+1. DateTime.Now.AddSeconds()
+1. DateTime.Now.AddMonths()
+1. DateTime.Now.AddYears()
+1. DateTime.Now.AddMilliseconds()
+1. DateTime.Now.ToString("dd")
+1. DateTime.Now.ToString("ddd")
+1. DateTime.Now.ToString("dddd")
+1. DateTime.Now.ToString("MM")
+1. DateTime.Now.ToString("MMM")
+1. DateTime.Now.ToString("MMMM")
+1. DateTime.Now.ToString("yy")
+1. DateTime.Now.ToString("yyyy")
+
+### Math
+1. Math.Abs()
+2. Math.Sin()
+1. Math.Cos()
+1. Math.Tan()
+1. Math.Ceiling()
+1. Math.Round()
+1. Math.Floor()
+1. Math.Max()
+1. Math.Min()
+1. Math.Pow()
+1. Math.Sqrt()
+1. Math.Log()
+1. Math.Exp()
+1. Math.Log10()
